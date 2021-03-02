@@ -13,14 +13,16 @@ During Block 1, I completed a dice rolling game and War with Dice. The dice roll
 
 What is one part or element of programming that you would like to improve or grow in this year?
 
-I would like to improve on my 
+I would like to expand and improve my knowledge of other languages like C++ and HTML this year. 
 
 
 
 What is one part of programming or this class that you feel like challenges you more than others?
 
-
+The most challenging aspect of programming for me is switching languages; I have to learn the basic formats and functions all over again. 
 
 
 
 What is your “goal” with computer programming or Computational Thinking?  This answer can be focused on your time at school, or it could describe how you want to experience college or your future career.
+
+My goal with computer programming is to have a useful skill that I can use throughout life. However, I am not yet sure whether coding will be part of my career, or just a hobby. 
